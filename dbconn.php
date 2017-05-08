@@ -1,9 +1,8 @@
 <?php
-  $host = 'localhost';
-  $port = '5432';
-  $dbname = 'relay_users';
-  $user = 'postgres';
-  $password = 'nothing';
-  $dbconn = pg_connect("host=$host port=$port dbname=$dbname user=$user password=$password")
-    or die('Could not connect: ' . pg_last_error());
+  $host = 'sql12.freemysqlhosting.net';
+  $port = '3306';
+  $dbname = 'sql12173270';
+  $user = 'sql12173270';
+  $password = 'heep66jlEN';
+  $dbconn = mysqli_connect("host=$host port=$port dbname=$dbname user=$user password=$password");
 ?>
