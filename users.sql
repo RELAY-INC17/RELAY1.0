@@ -1,0 +1,2 @@
+INSERT INTO users VALUES ('Leonard Lee', 'llee23@gmail.com', '14-01-1990', 'LenLee', '482c811da5d5b4bc6d497ffa98491e38', '123 Clementi Ave 3 S423498');
+INSERT INTO users VALUES ('Jacob Tan', 'jacksparrow@ymail.com', '09-11-1993', 'JackBlack', '482c811da5d5b4bc6d497ffa98491e38', '456 Clementi Ave 4 S983492');
